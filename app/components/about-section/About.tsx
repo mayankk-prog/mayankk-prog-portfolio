@@ -33,13 +33,13 @@ export default function About() {
       <div className="grid grid-cols-1 lg:grid-cols-[8.5fr_3.5fr] gap-8 mt-6">
         <div className="grid grid-cols-1 antialiased gap-6 text-white/80 text-xl md:text-2xl">
           <AnimatedBody className="leading-[34px] md:leading-[39px]">
-          I'm passionate about building powerful business solutions that drive growth 🚀. Whether it's a website for brand visibility 🌐 or software that automates manual tasks 🔄, I love turning ideas into reality and continuously refining them over time
+          I&apos;m passionate about building powerful business solutions that drive growth 🚀. Whether it&apos;s a website for brand visibility 🌐 or software that automates manual tasks 🔄, I love turning ideas into reality and continuously refining them over time
           </AnimatedBody>
           <AnimatedBody className="leading-[34px] md:leading-[39px]">
-          Since writing my first lines of code in late 2019 💻, I've focused on development, sharpening my skills while also picking up UI/UX along the way 🎨. I enjoy tackling increasingly complex challenges to ensure continuous improvement and innovation 💡.
+          Since writing my first lines of code in late 2019 💻, I&apos;ve focused on development, sharpening my skills while also picking up UI/UX along the way 🎨. I enjoy tackling increasingly complex challenges to ensure continuous improvement and innovation 💡.
           </AnimatedBody>
           <AnimatedBody className="inline leading-[34px] md:leading-[39px]">
-          Every project is unique, and I approach each one with a problem-solving mindset, delivering solutions that businesses are proud to own 🏆. Want to learn more? Here's... <br className="hidden md:block" />
+          Every project is unique, and I approach each one with a problem-solving mindset, delivering solutions that businesses are proud to own 🏆. Want to learn more? Here&apos;s... <br className="hidden md:block" />
             <Link
               className="underline"
               href={
